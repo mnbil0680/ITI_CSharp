@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello_World", "Hello_World\Hello_World.csproj", "{4031A3FA-2237-4997-A1D5-496E5FD2EB62}"
 EndProject
@@ -22,6 +22,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2_T3_Min_Max_Degree", "D2_T3_Min_Max_Degree\D2_T3_Min_Max_Degree.csproj", "{77E04282-CB04-4417-800C-E9D1DA01E4FD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2_T4_XO_Game_ForMe", "D2_T4_XO_Game_ForMe\D2_T4_XO_Game_ForMe.csproj", "{EA31E0F0-E06F-4250-9193-78B945FA9058}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day3", "Day3", "{4A884EC4-50E9-4174-81C2-8D55312225F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3_T1_OOP", "D3_T1_OOP\D3_T1_OOP.csproj", "{6CD71FED-8C61-4479-BA8D-3E89F33D5786}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +65,10 @@ Global
 		{EA31E0F0-E06F-4250-9193-78B945FA9058}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA31E0F0-E06F-4250-9193-78B945FA9058}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA31E0F0-E06F-4250-9193-78B945FA9058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD71FED-8C61-4479-BA8D-3E89F33D5786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD71FED-8C61-4479-BA8D-3E89F33D5786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD71FED-8C61-4479-BA8D-3E89F33D5786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD71FED-8C61-4479-BA8D-3E89F33D5786}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +82,7 @@ Global
 		{7E5005BC-EDEB-4CE9-9CE9-DD90BCCC2AE3} = {08EBDFB1-EDAF-4EE1-9EA5-7AD1BB8BB9B3}
 		{77E04282-CB04-4417-800C-E9D1DA01E4FD} = {08EBDFB1-EDAF-4EE1-9EA5-7AD1BB8BB9B3}
 		{EA31E0F0-E06F-4250-9193-78B945FA9058} = {08EBDFB1-EDAF-4EE1-9EA5-7AD1BB8BB9B3}
+		{6CD71FED-8C61-4479-BA8D-3E89F33D5786} = {4A884EC4-50E9-4174-81C2-8D55312225F2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {022C1CD9-D84A-4120-8A6F-CB251E17AFDF}
